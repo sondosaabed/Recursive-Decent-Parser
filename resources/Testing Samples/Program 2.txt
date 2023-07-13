@@ -1,0 +1,9 @@
+project MyProject;
+	const pi = 4;
+	var x, y : 0;
+	routine sondos;
+	
+	start
+		x:= 10;
+		y:=5;
+	end.
